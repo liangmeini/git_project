@@ -2,5 +2,5 @@
 
 void main()
 {
-	printf("create git sucess!");
+	printf("liangjianlin create git sucess!");
 }
